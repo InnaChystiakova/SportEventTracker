@@ -1,0 +1,41 @@
+{
+    "e": [
+        {
+            "d": "Iraq-Palestine",
+            "sh": "Iraq-Palestine",
+            "i": "45524202",
+            "si": "BASK",
+            "tt": 1704069710
+        },
+        {
+            "sh": "AlBahrain-Nuwaidrad",
+            "d": "AlBahrain-Nuwaidrad",
+            "si": "BASK",
+            "tt": 1704091125,
+            "i": "45519252"
+        },
+        {
+            "tt": 1704075154,
+            "i": "45520361",
+            "d": "CSUStiintaBucuresti-Csm2Constanta",
+            "si": "BASK",
+            "sh": "CSUStiintaBucuresti-Csm2Constanta"
+        },
+        {
+            "sh": "AistesLSUKaunas(W)-NeptunasKlaipeda(W)",
+            "si": "BASK",
+            "d": "AistesLSUKaunas(W)-NeptunasKlaipeda(W)",
+            "tt": 1704089584,
+            "i": "45524440"
+        },
+        {
+            "tt": 1704087467,
+            "si": "BASK",
+            "d": "KKMontenegro-KKAllStars",
+            "sh": "KKMontenegro-KKAllStars",
+            "i": "45545318"
+        }
+    ],
+    "i": "BASK",
+    "d": "BASKETBALL"
+}

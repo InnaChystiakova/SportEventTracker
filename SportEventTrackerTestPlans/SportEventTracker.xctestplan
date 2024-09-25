@@ -1,0 +1,40 @@
+{
+  "configurations" : [
+    {
+      "id" : "2F3C0694-43B0-41D2-AD7D-74F6F333D9CE",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : {
+      "targets" : [
+        {
+          "containerPath" : "container:SportEventTracker.xcodeproj",
+          "identifier" : "B3203CC72CA1B23900FA3C09",
+          "name" : "SportEventTracker"
+        }
+      ]
+    },
+    "testExecutionOrdering" : "random"
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:SportEventTracker.xcodeproj",
+        "identifier" : "B3203CDD2CA1B23900FA3C09",
+        "name" : "SportEventTrackerTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:SportEventTracker.xcodeproj",
+        "identifier" : "B3203CE72CA1B23900FA3C09",
+        "name" : "SportEventTrackerUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
